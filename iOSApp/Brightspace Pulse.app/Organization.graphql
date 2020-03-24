@@ -1,0 +1,5 @@
+query Organization($id:String!) {
+    organization(id:$id) {
+        ...organizationDetails
+    }
+}

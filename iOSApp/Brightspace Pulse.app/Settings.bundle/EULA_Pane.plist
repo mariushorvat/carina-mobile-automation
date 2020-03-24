@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string></string>
+			<key>FooterText</key>
+			<string>Date last modified: April 20, 2018
+
+Brightspace ® Pulse End-User License Agreement
+
+PLEASE READ THESE BRIGHTSPACE PULSE END USER LICENSE AGREEMENT AS SET OUT BELOW (the &quot;EULA&quot;) CAREFULLY BEFORE USING BRIGHTSPACE PULSE, WHICH INCLUDES THE SOFTWARE AND DOCUMENTATION (the &quot;PRODUCT&quot;), A MOBILE SOLUTION COMPOSITE OFFERING FOR LEARNERS THAT IS DEVELOPED IN COMBINATION WITH BRIGHTSPACE SERVICE AS MODIFIED, SUPPLEMENTED OR UPDATED FROM TIME TO TIME (THE &quot;SERVICE&quot;) AND IS OPTIONALLY INTEGRATED WITH OTHER D2L® OFFERINGS, SUBJECT TO APPROPRIATE AUTHENTICATION, INCLUDING FROM BRIGHTSPACE SERVICES PROVIDED BY YOUR INSTITUTION AND SUBJECT TO ENABLING OF APPLICABLE EXTENSIBILITY THAT ENABLES YOU TO MODIFY, ADD, DISTRIBUTE, MANAGE AND CONSUME CONTENT AND OTHER FORMS OF DATA (COLLECTIVELY, &quot;DATA&quot;) USING THE PRODUCT OR SERVICE WITH YOUR COMPATIBLE MOBILE DEVICE AND A WIRELESS CONNECTION. THIS EULA GOVERNS YOUR ACCESS TO AND USE OF THIS PRODUCT AND SERVICE, INCLUDING THE MESSAGES, INFORMATION, DATA, TEXT, SOFTWARE, IMAGES AND OTHER CONTENT THAT MAKE UP THIS PRODUCT (THE &quot;CONTENT&quot;, WHICH CONTENT IS PART OF THIS PRODUCT OR SERVICE). THESE TERMS AND CONDITIONS EXEMPT D2L CORPORATION AND, ITS SUBSIDIARIES AND AFFILIATES (COLLECTIVELY &quot;D2L&quot;, &quot;WE&quot;, OR &quot;US&quot;) AND OTHERS FROM LIABILITY AND/OR LIMIT OUR AND THEIR LIABILITY AND CONTAIN OTHER IMPORTANT PROVISIONS THAT APPLY TO YOUR USE OF THIS PRODUCT OR SERVICE.
+
+Nothing in this EULA shall be construed as an impairment of D2L&apos;s ability to comply with applicable laws.
+
+1. Terms and Conditions of Use of Product and Service
+
+Your use of this Product and Service is conditional on your acceptance of this EULA, D2L&apos;s Privacy Statement ( http://www.D2L.com/legal/privacy/) which is incorporated by reference into this EULA, D2L Acceptable Use Policy specified below, which is incorporated by reference into this EULA and the applicable terms of use and service of Brightspace service provided by your institution which are incorporated by reference into this EULA. By clicking on the appropriate button below or by downloading, installing, copying, activating or otherwise using the Product or Service, you agree on your own behalf or on behalf of an individual (including in the case of a parent or legal guardian) or entity for whose benefit you are authorized to act (collectively referred to herein as &quot;you&quot;), to accept and abide by this EULA for each use of this Product or Service. If you are under the age of majority in your jurisdiction, you must review this EULA with your parent or legal guardian to make sure that you and your parent or legal guardian understand this EULA and agree to be bound by them. If you do not agree to abide by this EULA, do not download, install or use the Product or Service, or any portion thereof, and delete all copies of the Product. You agree to have this EULA and any related information made available to you, and to otherwise have communications between you and us occur, electronically.
+
+For the iOS version of the Product that is available on the Apple Inc.&apos;s (&quot;Apple&quot;) iTunes Store, this EULA is concluded between you and D2L. This EULA is not concluded between you and Apple.
+
+By clicking on the appropriate button below or by downloading, installing, copying, activating or otherwise using the Product or Service, you affirm that you are: (i) at least the age of majority in your jurisdiction; or (ii) at least 13 years old and have the consent of your parent or legal guardian to agree to this EULA. If you are younger than 13 years of age, you may not download, install or use the Product or Service, or any portion thereof, and delete all copies of the Product.
+
+D2L has the right, in its sole discretion, to add to, remove, modify, to impose new or additional rules, policies, terms or conditions on your use of the Product or Service or otherwise change any part of this EULA (including the D2L Privacy Statement, D2L Acceptable Use Policy), in whole or in part, at any time. If D2L exercises this right, the &quot;Last Update&quot; notice at the top of this document shall be amended to reflect the last date of such changes. Changes will be effective as of the date the terms were changed. It is your responsibility to check the EULA or D2L Privacy Statement or D2L Acceptable Use Policy each time you access the Product or Service to determine whether any changes have been made, including by checking the date of the &quot;Last Update&quot; at the top of this EULA or D2L Privacy Statement or D2L Acceptable Use Policy. If any change to this EULA or D2L Privacy Statement or D2L Acceptable Use Policy is not acceptable to you, you must discontinue your use of this Product and Service, or any portion thereof, and delete all copies of the Product immediately. Your continued use of the Product and Service after any such changes are posted will constitute acceptance of those changes. This EULA, D2L Privacy Statement, and D2L Acceptable Use Policy applies exclusively to your use of the Product or Service and do not alter the terms or conditions of any other agreement you may have with D2L.
+
+D2L may, at any time without notice or liability, and for any reason whatsoever, terminate, change, suspend or discontinue any aspect of this Product or Service, including: (i) changing the availability of, restricting access to, or imposing limits on any or all features or services on, or links to, the Product or Service; and (ii) removing, adding, modifying or otherwise changing any fees or charges arising out of use of the Product or any features of the Product or Service. From time to time, D2L may make available updates or upgrades to the Product or Service via software download or other means. Such download may occur automatically without the need for any act on your part, or it may require you to download manually an update or upgrade through the same source from which the Product or Service was originally downloaded. Certain functions of the Product or Service may be modified or discontinued as a result of any update or upgrade, or may not be available if you have not downloaded all updates and upgrades made available by D2L or otherwise. D2L reserves the right, in its sole discretion, to correct any errors or omissions in any portion of this Product or Service at any time without notice, but confirms that it has no duty to do so.
+
+Please note that D2L does not provide additional warranties for the Product or Service. This EULA also limits D2L&apos;s liability to you. See Disclaimer of Warranties and Limitation of Liability Sections for details.
+
+2. Acceptable Use Policy
+
+D2L through its product offerings provides certain access to software, and local, national, and international facilities and infrastructure services for the purposes of creating, and disseminating information (known as facilities and services).
+
+There is an obligation on the part of those using these facilities and services to respect the intellectual and access rights of others locally, nationally and internationally.
+
+Computing resources and facilities of D2L, and its respective partners shall be exclusively used for legitimate activity related to the performance of the duties and responsibilities of the users only, administrative, public service, or approved contract purposes.
+
+If the use of the facilities and services includes accessing other environments that may be subject to a similar policy, then the burden is exclusively on the user to ensure compliance.
+
+Personal use of the facilities and services is not expressly forbidden provided that personal use does not interfere with any of the other obligations contained herein, or any other user’s ability to use the facilities and services.
+
+The facilities and services are not to be used, directly or indirectly, for the viewing, access, duplication, alteration of any files or intellectual property of another, without that intellectual property owners express consent. Any attempt to degrade, interfere with, disrupt, damage or otherwise interfere with the facilities and services, or using the facilities and services or any part thereof for those purposes on another system is expressly forbidden. If you are uncertain if you have permission to perform the task you intent to perform, please consult your system administrator, or equivalent.
+
+Individuals or institutions who disregard elements of this policy may be subject to appropriate contractual or legal action by D2L. Violators of this policy may be liable to D2L and/or its respective suppliers and partners if there is a violation, however small, of this policy.
+
+Should you wish not to follow this policy, or you disagree with any part of it, you are not permitted to access the facilities and services at any time, or in any manner.
+
+Accessing the facilities and services is your express acceptance of this policy.
+
+3. Relationship with the third party digital store front terms of service.
+
+If you acquired the Product from Apple&apos;s iTunes Store, to the extent that the usage rules of this EULA are less restrictive or conflict with the usage rules of the Apple&apos;s iTunes Store terms of service as of the date you agree to this EULA, those more restrictive and conflicting usage rules of the Apple&apos;s iTunes Store terms of service terms will be substituted for the usage rules of this EULA, and the substituted usage rules will govern your rights and responsibilities associated with your use of the Product on the iOS platform only with respect to the scope of the conflicting usage rules.
+
+4. Intellectual Property Ownership.
+
+Except as expressly set forth in this EULA, D2L, D2L partners, D2L licensors, and third parties, as applicable, retain all right, title, and interest in the Product and Service. You may not copy, reproduce, modify, republish, upload, post, transmit, or distribute Product or Service or components of the Product or Service in any form or by any means without prior express written agreement from D2L or the rightful owner of such components, as applicable. All trademarks or service marks are property of their respective owners. This EULA grants you no right, title, or interest in any trademarks owned or licensed by D2L, including D2L or third-party trademarks. If a third party claims that the Product or your possession and use of the Product infringes that third party&apos;s intellectual property rights, D2L, not Apple (if you acquired the Product from Apple&apos;s iTunes Store), will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+
+5. Credentials, Account, Associated Accounts
+
+D2L may provide you with credentials (e.g, ID and password) (the &quot;Credentials&quot;) to use with this Product. This EULA applies whenever you use the Credentials. When you use the Credentials to gain access to any application or web site other than this Product, the terms and conditions (including but not limited to any end user license agreements) for that application or web site will apply in addition to this EULA to your use of that application or web site.
+
+Your Credentials will correspond to an account (&quot;Account&quot;) granted to you by D2L. Only you may use your Account. You must keep your Account and Credentials confidential and not authorize any third party to access or use the Service on your behalf, unless D2L provides an approved mechanism for that. You must contact D2L immediately if you suspect misuse of your Account or any security breach in this Product or Service. For some parts of this Product or Service, you may be able to set up additional accounts that are dependent on your Account (&quot;Associated Accounts&quot;). You are responsible for all activity that takes place with your Account and any Associated Accounts.
+
+If you use an Associated Account, you acknowledge that the holder of the Account has full control over your Associated Account. If a third party such as an Internet service provider, employer, or academic institution gave you your Associated Account, that party has rights to your Associated Account and may: manage your Associated Account, reset your password, or suspend or cancel your Associated Account; view your Associated Account&apos;s usage and profile data, including how and when your Associated Account is used; and read or store content in your Associated Account, including electronic communications, contact lists, and other information which may include your confidential information. It is important for you to be aware of the privacy policies for any third party provider for which you were granted an Associated Account. D2L is not responsible for the privacy policies of any third party providers.
+
+D2L may cancel or suspend your Account and your access to Product and Services at any time without notice and for any reason. Reasons for cancellation may include that D2L stops providing this Product or Service in your region or that you breach this EULA or don&apos;t pay fees that you owe to us or to our agents. If your Account or Associated Account is canceled, your right to use this Product or Service stops immediately. If D2L cancels your Credentials, your right to use this Product or Service stops immediately. Cancellation of this Product or Service or Credentials won&apos;t alter your obligation to pay all charges made to your billing account, if applicable. If D2L cancels this Product or Service in its entirety without cause, it will refund to you on a pro-rata basis any payments that you have made based on the portion of this Product or Service that would otherwise remain. D2L will not provide any refund for Associated Accounts (including accounts of third parties), the use of or access to which is affected by D2L&apos;s cancellation of this Product or Service without cause.
+
+6. Grant of License.
+
+Subject to the terms of this EULA and the enabling of applicable extensibility, D2L grants you a limited, non-exclusive, personal, non-commercial, non-assignable, non-transferable license to use Service and install and use one (1) copy of the Product on a single compatible device that you own or control and which has not been modified (except in accordance with the manufacturer&apos;s recommendations) (&quot;Device&quot;), and as permitted by the usage rules set forth in the applicable third party digital storefront (e.g. iTunes Store for iOS versions of the Product) terms of service through which this Product is made available to you. The Product is in &quot;use&quot; when it is loaded into temporary or permanent memory on a Device. You are granted the right to back-up or archive the Product in accordance with the standard operating procedures applicable to your Device.
+
+All rights not expressly granted by this EULA are reserved by D2L.
+
+Notwithstanding any other provision of this EULA, you may access and use the Product or Service for lawful purposes only. You agree to not use the Product or Service to violate any applicable law, this EULA, or D2L Acceptable Use Policy or D2L Privacy Statement.
+
+You may not, or assist or cause others:
+
+(a) to transfer, sell, rent, lease, distribute, transmit, broadcast, copy or reproduce, forward, modify, print, create derivative works based upon, disseminate, export, publish or sublicense the Product or Service or in any way commingle the Product or Service with other third party services, products or content for any reason whatsoever, including for the purpose of creating competitive products or services, without D2L&apos;s prior written consent;
+
+(b) to defeat, modify, bypass, or circumvent security or any other features that protect the Product or Service; or
+
+(c) in, interfering with, hacking, or otherwise compromising any security measures of the Product or Service or using the Product or Service to interfere, hack, or otherwise compromise any security measures of other products or systems, including D2L products, services or systems.
+
+(d) to use this Product or Service in any manner that could damage, disable, overburden, impair, interfere with the security of, negatively affect the functioning of, or otherwise abuse, the Product or Service or any services, system resources, accounts, servers, networks, affiliated or linked sites connected to or accessible through this Product or Service (including without limitation uploading, posting or otherwise transmitting any computer viruses, Trojan horses, worms or other files or computer programs which are potentially harmful, disruptive or destructive or that may impose an unreasonable or disproportionately large load on D2L&apos;s infrastructure or services;
+
+(e) to use any robot, spider or other automatic program or device, or manual process to monitor, copy, summarize, or otherwise extract information from the Product or Service or the Data in whole or in part;
+
+(f) to use this Product or Service for commercial purposes or activities, including without limitation:
+
+(i) selling or offering to sell any goods or services;
+
+(ii) soliciting for advertisers or sponsors;
+
+(iii) conducting contests, gaming or gambling or offering prizes, awards or any other incentives to any person;
+
+(iv) displaying advertising or sponsorship banners, including those generated by banner or link exchange services;
+
+(v) soliciting for donations; or
+
+(vi) sending unauthorized or unsolicited junk mail, spam, chain letters, pyramid schemes or any other form of solicitation;
+
+(g) to download, store, transmit or communicate any Data that:
+
+(i) you do not have legal authority to download, store, transmit or communicate;
+
+(ii) contain viruses, time bombs or other malicious computer code;
+
+(iii) infringe another&apos;s intellectual property rights (including copyrights);
+
+(iv) are unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, invasive of another&apos;s privacy, hateful, or racially, ethnically or otherwise objectionable; or
+
+(v) adversely affects D2L&apos;s products or services;
+
+(h) to improperly access another&apos;s Data or to misrepresent your affiliation or identity;
+
+(i) to use this Product or Service in any manner that may dilute or depreciate the name or reputation of D2L, its Marks (as defined below) or its associates; or
+
+(j) interfere with any other persons&apos; use and enjoyment of the Product or Service or related procuts or services or of the Internet generally.
+
+In addition, you agree that you are solely responsible for actions and communications undertaken or transmitted in the course of your use of this Product or Service, and that you will comply with all laws that apply or may apply to your use of or activities using the Product or Service. D2L will investigate occurrences which may involve violations of such laws, and may involve, and co-operate with, law enforcement authorities in prosecuting users who are involved in such violations. D2L shall have the right at all times to disclose any information regarding your use of the Product or Service or any related products or services as necessary to satisfy any law, regulation or governmental request.
+
+7. Proprietary Rights
+
+This Product and Service are protected by Canadian, U.S. and worldwide intellectual property and copyright laws and treaty provisions. Any unauthorized copying, redistribution, reproduction or modification of this Product or Service (including any element of the Content) by any person may be a violation of intellectual property, trade-mark and/or copyright laws and could subject such person to legal action. You agree to comply with all intellectual property and copyright laws worldwide in your use of this Product or Service and to prevent any unauthorized copying, redistribution, reproduction or modification of this Product or Service or any of the Content or Data or User Content (as defined below).
+
+Certain names, graphics, logos, icons, designs, words, titles and phrases on this Product and Service, including without limitation &quot;D2L&quot; and other applicable trade-marks listed at http://www.D2L.com/trademarks/, constitute trade-marks, trade names, trade dress and associated products and services of D2L (the &quot;Marks&quot;) or constitute trade-marks, trade names, trade dress and associated products and services of D2L suppliers or other third parties (the &quot;Third Party Marks&quot;) and are protected in Canada and internationally and their display on this Product or Service does not convey or create any license or other rights in the Marks or the Third Party Marks. Any use of the Marks or the Third Party Marks, in whole or in part, without prior written authorization of D2L or such third party, as applicable, is strictly prohibited.
+
+8. Linked Sites and Data
+
+Certain links in the Product or Service may take you to other web sites and Data that are not owned or operated by D2L. D2L provides these links only as a convenience. D2L is not responsible for the content (that may be offensive, indecent, objectionable, or that contains errors or inaccuracies) of any such linked web sites or Data. D2L makes no representation or warranty regarding, and does not endorse, such linked web sites, Data, the information or other content appearing thereon or any of the products or services available on or through such web sites or Data.
+
+Notwithstanding any other provision of this EULA, you agree that your use of the Product or Service is at your sole risk and that D2L shall have no liability to you for such linked web sites, Data, the information or other content appearing thereon or any of the products or services available on or through such web sites or Data that may be found to be offensive, indecent, objectionable, erroneous or inaccurate.
+
+If you decide to visit any linked site or use or access another&apos;s Data, you do so at your own risk and it is your responsibility to take all protective measures to guard against viruses and other destructive elements.
+
+9. Third Parties. 
+
+Some applications may be provided or hosted by our third party vendors. You agree that D2L may allow such third party providers to access your data as required for the interoperation of such vendor software or services with the Applications. D2L shall not be responsible for any disclosure, modification or deletion of your data resulting from any such access by vendors. 
+
+10. Access to Data.
+
+You acknowledge and agree that Data may not be under the control of D2L, and that you may be required to enter into one or more agreements with third parties (including your organization or mobile carriers) to access and/or transmit Data. These third parties may have privacy policies to which the Data and your use thereof may be subject. You are responsible for complying with the terms and conditions of those agreements and privacy policies. In addition, by accessing Data, you may be processing personally identifiable information as that term is defined in applicable privacy or similar legislation. You are solely responsible for any such Data that is processed on your Device.
+
+11. Privacy Statement.
+
+You should carefully read D2L&apos;s Privacy Statement before deciding to install or use the Product or use of Service as it is incorporated into this EULA by reference, and governs D2L&apos;s treatment of information you provide to D2L. You acknowledge that your submission of any data, content or information to D2L is voluntary on your part.
+
+12. Information Collection and Disclosure.
+
+In order to continually innovate and improve its products and services, and/or to perform statistical analyses of the collective characteristics and behavior of all users, and/or by measuring demographics and interests regarding specific products and services and/or to provide support and services to you, D2L may collect certain information about you and your interaction with the Product or Service. As part of the Product or Service, D2L may also automatically upload information about your Device, your use of the Product or Service, and Product or Service performance. This information that D2L collects may identify you as an individual.
+
+13. Communications.
+
+Any information gathered by D2L through your use of this Product or Service may be used by D2L for its own marketing, promotional and product development purposes and more specifically may be stored in a database and used by D2L to identify, customize and personalize user access, and assess utilization of this Product or Service. Such information may be shared among D2L and its suppliers, licensors and clients in furtherance of the forgoing purposes. From time to time, (i) D2L may email you; (ii) D2L&apos;s partners may contact you that may be related to the products and services they provide if you have signed up for such products and services; and (iii) D2L may display advertisements and opportunities from third parties.
+
+14. Feedback
+
+As part of using the Product or Service, D2L may provide you with the opportunity to submit comments, suggestions, or other feedback regarding your use of the Product or Service. You agree that in the absence of a separate written agreement to the contrary, D2L will be free to use any feedback you provide for any purpose.
+
+15. User Submissions (solicited and unsolicited)
+
+(a) Subject to any applicable law and the requirements of the D2L Privacy Statement:
+
+(i) D2L does not wish to obtain unsolicited ideas, including ideas for new advertising campaigns, new promotions, new or improved products, goods, services or technologies, product enhancements, processes, materials, marketing plans, or new product names. Accordingly, please do not send any unsolicited ideas, suggestions or other materials (&quot;Submissions&quot;) to D2L.
+
+(ii) any communications sent by you to D2L via the Product or Service or otherwise, including Submissions, whether solicited by D2L or otherwise, are on a non-confidential basis (other than personal information which is covered under the D2L Privacy Statement), and D2L shall be free to use and disclose the content of any such communication, including without limitation any ideas, inventions, concepts, techniques or know-how disclosed therein, for any purpose including without limitation developing, manufacturing and/or marketing goods and services. You agree to not assert any ownership right of any kind in such communications (including without limitation copyright, trade-mark, patent, trade secret, unfair competition, moral rights, or implied contract) and you hereby waive such moral rights in favour of D2L and its affiliates, licensees, successors and assignees. You also acknowledge that you have no right to receive any financial or other consideration in connection with such communication.
+
+(b) D2L is not obliged to monitor, screen, police or edit your use of the Product or Service, including postings you or others may make to the Product or Service, although D2L may choose to do so in its sole discretion. D2L will respond as it considers appropriate, in its sole discretion, if D2L becomes aware of any inappropriate uses of the Product or Service, including without limitation use that constitute copyright infringement.
+
+(c) Users of the Product or Service may be permitted to submit or post discussions, questions, images, comments, reviews or other information (&quot; User Content&quot;) to the Product or Service. In submitting or posting any User Content, you agree:
+
+(i) not to post any User Content that may: (A) harm, threaten, harass, abuse or intimidate any other person in any way; (B) involve materials that constitute, depict, promote, encourage, indicate, advocate or tend to incite the commission of a crime or other unlawful activities, violence, hatred, cruelty or discrimination against any individuals or groups, for any reason, or any act of cruelty to animals; (C) conceal or misrepresent the author or origin of any messages or communication, or that impersonate any person, or that falsely state or otherwise misrepresent an affiliation with any other person, including D2L; or (D) disclose any private or personal information about any person without that person&apos;s permission.
+
+(ii) you are solely responsible for your User Content and any other actions and communications undertaken or transmitted in the course of your usage of the Product or Service, and that you will comply with all laws that apply or may apply to your use of or activities on this Product or Service. D2L may investigate occurrences which may involve violations of such laws and co-operate with law enforcement authorities in prosecuting users who are involved in such violations. D2L reserves the right at all times to disclose any information (including without limitation your personal information or your identity) regarding your usage of the Product or Service (including any perceived violations of applicable law), in each case as may be permitted or required by applicable law, including as necessary to satisfy any request authorized by applicable law.
+
+(iii) User Content you share in public areas of this Product or Service or in shared areas available to others may use that User Content and you grant them free, non-exclusive permission to use, reproduce, distribute, display, transmit, and communicate to the public the User Content solely in connection with this Product or Service and other products and services made available by D2L, its agent and its partners. If you do not want others to have those rights, do not use this Product or Service to share your User Content.
+
+(iv) and understand that D2L may need, and you hereby grant D2L, its agents and its partners the right, to use, process, transfer, modify, adapt, reproduce, distribute, delete and display content posted on this Product or Service.
+
+(v) that you shall not share any User Content on this Product or Service in a way that infringes others&apos; copyrights, other intellectual property rights, or privacy rights. You represent and warrant that you have all the rights necessary for you to grant the rights in this section and the use of the User Content doesn&apos;t violate any law. D2L will not pay you for your User Content. D2L may refuse to publish your User Content for any or no reason. D2L may remove your User Content from this Product or Service at any time at its discretion. D2L does not have an obligation to police the copyright validity of any of the User Content on this Product or Service.
+
+(vi) that you are responsible for backing up your User Content or data that you store using the Product or Service. If there is a Product or Service outage, your User Content or data may be lost. If your use of Product or Service is suspended or canceled, D2L may permanently delete your User Content or data. D2L has no obligation to return your User Content or data to you after the use of the Product or Service is suspended or canceled. If your User Content or data is stored with an expiration date, D2L may also delete your User Content or data as of that date. User Content or data that is deleted may be irretrievable.
+
+(vii) and acknowledge that D2L, its agents and its partners may use, process and/or transfer (including intra-group and to entities in countries that do not provide statutory protections for personal information) your User Content or data (which may include certain information about you) in whole or in part: (a) in connection with provisioning this Product or Service; (b) to incorporate your data into databases controlled by D2L for the purpose of providing products or services; administration, provisioning, billing and reconciliation; verification of your identity, solvency and creditworthiness; maintenance, support and product or service development; fraud detection and prevention; sales, revenue, and customer analysis and reporting; market and customer use analysis; and (c) to communicate to you by voice, letter, fax, e-mail or other means regarding this Product or Service.
+
+16. Additional Charges.
+
+You further acknowledge and agree that use of the Product or Service may result in data, bandwidth or additional third party charges (e.g., from your mobile carrier and/or internet provider) and that these charges are your responsibility.
+
+17. Disclaimer of Warranties.
+
+D2L makes no representation or warranty and there are no conditions of any kind regarding this Product or Service or the Content or the User Content or the Data, including without limitation any representation, warranty or condition regarding the accuracy, reliability, currency, or completeness of the Content or the User Content or the Data. D2L makes no representation or warranty and there are no conditions that the Product or Service or the Content or the User Content or Data is appropriate or available for use at any locations outside Canada. Accessing the Product or Service or the Content or the User Content or any Data from locations where it is illegal is prohibited. Those who choose to access this Product or Service or Content or the User Content or the Data from other locations do so on their own initiative and are responsible for compliance with local laws. There is no such thing as perfect security, and D2L cannot guarantee or warrant the security of any data that D2L receives and stores.
+
+You acknowledge and agree that this Product or Service (including without limitation the Content, the User Content and the Data) is provided on an &quot;AS IS&quot; basis and that any use of or reliance on this Product or Service shall be at your sole risk. D2L DOES NOT MAKE ANY, AND EXPRESSLY DISCLAIM ALL, REPRESENTATIONS, WARRANTIES, COVENANTS AND CONDITIONS, EXPRESS OR IMPLIED, ORAL OR WRITTEN BY OPERATION OF LAW OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABLE QUALITY, OR FITNESS FOR ANY PARTICULAR PURPOSE, OR NON-INFRINGEMENT, OR THOSE ARISING OUT OF COURSE OF PERFORMANCE, COURSE OF DEALING OR USAGE OF TRADE WITH RESPECT TO THIS PRODUCT OR SERVICE (INCLUDING THE CONTENT, THE USER CONTENT AND THE DATA). FOR GREATER CERTAINTY, D2L DOES NOT GUARANTEE OR WARRANT THAT THIS PRODUCT OR SERVICE WILL (i) MEET YOUR REQUIREMENTS, (ii) BE COMPATIBLE WITH YOUR DEVICE, (iii) BE ACCURATE, RELIABLE, AUTHENTIC, CURRENT OR COMPLETE, (iv) CONTINUE TO OPERATE, (v) OPERATE WITHOUT INTERRUPTIONS, OR (vi) BE ERROR-FREE THROUGH YOUR USE OF THE PRODUCT OR SERVICE. IN ADDITION D2L DOES NOT GUARANTEE OR WARRANT THAT ANY INFORMATION OR DATA YOU MAY STORE OR ACCESS THROUGH THE PRODUCT OR SERVICE WILL NOT BE SUBJECT TO INADVERTENT DAMAGE, CORRUPTION OR LOSS.
+
+YOU MAY HAVE OPPORTUNITIES TO ENGAGE IN COMMERCIAL TRANSACTIONS WITH OR USE PRODUCTS OR SERVICES OF OTHER PARTIES. YOU ACKNOWLEDGE THAT ALL TRANSACTIONS RELATING TO ANY MERCHANDISE OR PRODUCTS OR SERVICES OFFERED BY ANY PARTY, INCLUDING THE PURCHASE AND PAYMENT TERMS, WARRANTIES, GUARANTEES, MAINTENANCE AND DELIVERY TERMS RELATING TO SUCH TRANSACTIONS OR PRODUCTS OR SERVICES, ARE AGREED TO SOLELY BETWEEN THE OTHER PARTY AND YOU. D2L MAKES NO WARRANTY REGARDING ANY INTERACTIONS OR TRANSACTIONS EXECUTED OR ACCESSED THROUGH, OR IN CONNECTION WITH THE PRODUCT, AND YOU UNDERSTAND AND AGREE THAT SUCH TRANSACTIONS OR INTERANCTIONS OR ACCESS ARE CONDUCTED ENTIRELY AT YOUR OWN RISK. ANY WARRANTY THAT IS PROVIDED IN CONNECTION WITH ANY PRODUCTS, SERVICES, CONTENT, OR INFORMATION AVAILABLE ON OR THROUGH THE PRODUCT FROM A THIRD PARTY IS PROVIDED SOLELY BY SUCH THIRD PARTY, AND NOT BY D2L.
+
+If you acquired the Product from Apple&apos;s iTunes Store and if the laws of your jurisdiction prohibit or limit disclaimers to warranties, then to the extent that a court of competent jurisdiction determines or D2L agrees that the Product breaches a warranty owed to you, then you may notify Apple and Apple will refund the purchase price you paid to Apple for the Product.
+
+To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Product.
+
+18. Maintenance and Support.
+
+If you acquired the Product from Apple&apos;s iTunes Store, D2L, not Apple is solely responsible for providing any maintenance and support services with respect to the Product, as specified in this EULA or as required under the laws of your jurisdiction, and Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Product.
+
+19. Product Claims.
+
+If you acquired the Product from Apple&apos;s iTunes Store, and subject to the terms of this EULA, D2L, not Apple, is responsible for addressing any claims you or any third party have relating to the Product or your possession or use of the Product, including (i) product liability claims, (ii) any claim that the Product fails to conform to any applicable legal or regulatory requirement and (iii) claims arising under consumer protection or similar legislation.
+
+20. Limitation of Liability.
+
+YOU AGREE THAT IN NO EVENT WILL D2L OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, AGENTS OR OTHER REPRESENTATIVES (COLLECTIVELY &quot;D2L REPRESENTATIVES&quot;) HAVE ANY RESPONSIBILITY OR LIABILITY IN CONNECTION WITH THIS PRODUCT OR SERVICE FOR ANY LOSSES OR DAMAGES WHATSOEVER, WHETHER BASED ON CONTRACT (INCLUDING FUNDAMENTAL BREACH OR BREACH OF A FUNDAMENTAL TERM), TORT (INCLUDING NEGLIGENCE) OR OTHER LEGAL OR EQUITABLE BASIS, INCLUDING WITHOUT LIMITATION DIRECT, INDIRECT, SPECIAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES OR OTHER DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES FOR HARM TO BUSINESS, LOSS OF INFORMATION OR PROGRAMS OR DATA, LOSS OF PROFIT, LOSS OF SAVINGS, LOSS OF REVENUE, LOSS OF GOODWILL OR OTHER ECONOMIC LOSS), ARISING FROM OR IN CONNECTION WITH OR RELATING TO THE USE OF OR ACCESS TO, OR ANY INCONVENIENCE, DELAY OR LOSS OF USE OF OR ACCESS TO, THIS PRODUCT, SERVICE, THE CONTENT, THE DATA, THE USER CONTENT OR ANY CONTENT OF ANY LINKED WEB SITE, OR FAILURE OF SUCH WEB SITES (INCLUDING WITHOUT LIMITATION ANY DAMAGES SUFFERED AS A RESULT OF OMISSIONS OR INACCURACIES IN SUCH WEB SITES OR CONTENT, OR THE TRANSMISSION OF CONFIDENTIAL OR SENSITIVE INFORMATION TO OR FROM SUCH WEB SITES), EVEN IF D2L OR ANY D2L REPRESENTATIVES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE OR LOSS OR IF SUCH DAMAGE OR LOSS WAS FORESEEABLE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, D2L DISCLAIMS ALL LIABILITIES TO YOU, THROUGH ANY ACT OR OMISSION AS IT RELATES TO THE UNLAWFUL OR UNAUTHORIZED USE OF THE PRODUCT OR SERVICE. YOU ARE SOLELY RESPONSIBLE FOR ALL DATA MADE AVAILABLE TO OR BY THE PRODUCT OR SERVICE OR D2L. BY ENTERING INTO THIS EULA, YOU ACKNOWLEDGE THAT D2L ACTS AS TRUSTEE FOR ITS SUBSIDIARIES AND AFFILIATES WITH RESPECT TO ALL RIGHTS CONTEMPLATED HEREUNDER ARISING IN FAVOUR OF AN AFFILIATE OR SUBSIDIARY OF D2L. D2L AGREES TO ACCEPT SUCH TRUST AND HOLD AND ENFORCE SUCH RIGHTS ON BEHALF OF EACH SUCH AFFILIATE.
+
+21. Waiver and Indemnity.
+
+By using the Product or Service, you agree to indemnify, defend, and hold harmless (or if prohibited by the laws of your jurisdiction, to the fullest extent of the law, you are liable to), D2L, its directors, officers, employees, affiliates, subsidiaries, agents, contractors, licensors and licensees with respect to any damages, losses and costs, including attorneys&apos; fees and costs, related to all third party claims, charges, and investigations, caused by (1) your failure to comply with this EULA, including your submission of objectionable data or Data that violates third party rights or applicable laws, (2) any Data you submit using the Product or Service, (3) any breach of privacy claims made by you and (4) your use of, misuse of or inability to use the Product or Service.
+
+22. Termination.
+
+D2L reserves the right to terminate your license to the Product or Service at any time, for any reason without notice to you; however, if feasible, D2L will use commercially reasonable efforts to provide you with any notice of termination. If you breach any provision of this EULA, then you may no longer use this Product or Service. Your rights under this EULA will terminate automatically if you fail to comply with any term of the EULA. In case of such termination, you must cease your use of the Product or Service, and D2L may revoke your access to Service or the Product without refund of any fees and without further notice to you. D2L, in its discretion, shall determine whether this EULA has been violated.
+
+23. Legal Compliance.
+
+You represent and warrant that: (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a &quot;terrorist supporting&quot; country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+24. EXPORT RESTRICTIONS.
+
+THE PRODUCT AND/OR SERVICE MAY BE SUBJECT TO CANADIAN, U.S. OR INTERNATIONAL EXPORT, IMPORT AND /OR USE LAWS AND REGULATIONS. YOU MUST COMPLY WITH ALL APPLICABLE CANADIAN, U.S. OR INTERNATIONAL EXPORT, IMPORT AND/OR USE LAWS AND REGULATIONS. THESE LAWS INCLUDE RESTRICTIONS ON DESTINATIONS, END USERS AND END USE. You represent that you are not a citizen of an embargoed country or a prohibited end user under applicable U.S. or local export and anti-terrorism laws, regulations and lists. You agree not to export, re-export, divert, transfer or disclose any portion of the Product or Service or Data or services or site or any related technical information or materials, directly or indirectly, in violation of any applicable export or import law or regulation.
+
+25. Choice of law.
+
+You agree that all matters relating to the access to, or use of, this Product or Service shall be governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein, without reference to its conflict of laws principles, and that you will comply with all such applicable laws.
+
+Any dispute between D2L and you or any other person arising from, in connection with or relating to this Product or Service, this EULA, any transaction through this Product or Service or any related matters must be resolved before the Courts of the Province of Ontario, Canada sitting in the City of Toronto, and you hereby irrevocably submit and attorn to the exclusive jurisdiction of those Courts in respect of any such dispute (provided that D2L may bring an action against you in another jurisdiction).
+
+26. Dispute Resolution and Arbitration; Class Action and Jury Trial Waivers.
+
+PLEASE READ THIS SECTION CAREFULLY BECAUSE IT AFFECTS YOUR RIGHTS.
+
+Arbitration. If we are not able to amicably resolve any dispute, claim, action or proceeding between us arising out of or concerning this Product or Service, this EULA, any transaction through this Product or Service or any related matters, whether in contract, tort, or otherwise at law or in equity (each, a &quot;Dispute&quot;), then such Dispute shall be resolved only by final and binding arbitration conducted by a single neutral arbitrator and administered by the ADR Chambers (&quot;ADR&quot;) in accordance with the provisions of its Commercial Arbitration Rules and the supplementary procedures for consumer related disputes of the ADR, excluding any rules or procedures governing or permitting class actions, or a similar arbitration service selected by us, in a location mutually agreed upon by us. The prevailing party shall be entitled to recover its costs and reasonable attorney&apos;s fees. The arbitrator&apos;s award shall be final, and judgment may be enforced by any court having jurisdiction. The Dispute, including the scope and enforceability of this arbitration provision shall be determined by the arbitrator. This arbitration provision shall survive the termination of this EULA for any reason.
+
+Class Action Waiver. Any arbitration under this EULA will take place on an individual basis; class arbitrations and class/representative/collective actions are not permitted. WE AGREE THAT WE MAY BRING CLAIMS AGAINST THE OTHER ONLY IN OUR INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PUTATIVE CLASS, COLLECTIVE AND/ OR REPRESENTATIVE PROCEEDING, SUCH AS IN THE FORM OF A PRIVATE ATTORNEY GENERAL ACTION AGAINST THE OTHER. Further, the arbitrator may not consolidate more than one person&apos;s claims, and may not otherwise preside over any form of a representative or class proceeding.
+
+Waiver of Jury Trial. Each of us hereby knowingly and voluntarily waives our right to trial by jury with respect to any Dispute arising out of or in connection with this Product or Service, this EULA, any transaction through this Product or Service or any related matters, or by our conduct or relationship.
+
+27. General.
+
+This EULA constitute the entire agreement between D2L and you with respect to the subject matter hereof, and supersede all communications, representations or agreements, either oral or written, between D2L and you with respect to this subject matter. If for any reason a court of competent jurisdiction finds any provision of this EULA or portion thereof to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of this EULA, and the remainder of this EULA shall continue in full force and effect. No waiver of or consent to depart from the requirements of any provision of this EULA will be binding unless it is in writing and signed by D2L. You and D2L are independent contractors, and no agency, partnership, joint venture, employment or franchise relationship is intended or created by this EULA.
+
+The provisions of this EULA will enure to the benefit of and be binding upon you and D2L and your respective successors and assigns, and, if you are contracting as an individual, your heirs, executors, administrators, and personal representatives. Except as provided in this EULA, none of its provisions are for the benefit of, or enforceable by, any third party. No third party shall have the right to (a) rely on the products or services provided by D2L or (b) seek to impose liability on D2L as a result of the products or services. You may not assign this EULA or your rights and obligations under this EULA without the express written consent of D2L, which may be withheld in D2L&apos;s sole discretion. D2L and its service providers may assign this EULA and their respective rights and obligations under this EULA without your consent.
+
+28. Third Party Beneficiary.
+
+If you acquired the Product from Apple&apos;s iTunes Store, you acknowledge and agree that Apple and its subsidiaries are third party beneficiaries of this EULA, and that upon your acceptance of this EULA, Apple and its subsidiaries will have the right (and will be deemed to have accepted such right) to enforce this EULA against you as a third party beneficiary with respect to your use of the Product on the iOS platform.
+
+29. Language.
+
+The parties have required that this agreement and all documents relating thereto be drawn up in English. Les parties ont demandé que cette convention ainsi que tous les documents qui s&apos;y attachent soient rédigés en langue anglaise.
+
+Contact Information. Any questions or complaints with respect to the Product or Service should be directed to:
+
+D2L Corporation
+
+151 Charles Street West, Suite 400
+
+Kitchener, Ontario, Canada N2G 1H6
+
+Phone: (519) 772-0325
+
+Email: info@d2l.com</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Settings</string>
+</dict>
+</plist>

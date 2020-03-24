@@ -1,0 +1,9 @@
+query  ConsortiumOrganizations {
+    consortiumOrganizations {
+        id
+        name
+        homeUrl
+        tenant
+        user
+    }
+}

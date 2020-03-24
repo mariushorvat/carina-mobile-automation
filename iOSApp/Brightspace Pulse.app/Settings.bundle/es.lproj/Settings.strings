@@ -1,0 +1,12 @@
+/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+
+/* Root Pane */
+"settings.group.about.title" = "Acerca de";
+"settings.version.title" = "Versión";
+"settings.eula.title" = "CLUF";
+"settings.group.about.footer" = "Brightspace Pulse de D2L\
+©2015 D2L Corporation";
+
+/* EULA Pane */
+
+// Note that the Licence Agreement is not translated at this time.

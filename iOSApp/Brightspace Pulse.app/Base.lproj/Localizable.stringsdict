@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <!-- Our Serge.io config is set up to not translate "%#@term@" and "d" since these strings are being used
+     as variables consistently thorughout this file. It's likely easiest to stick with this convention, but,
+     if you need a new variable; please add it to the list of exceptions in the .stringsdict metaparser plugin
+     config in the iOS.serge file. --Mason Pomeroy -->
+    <dict>
+
+        <key>summarybar.assignment.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>Assignment</string>
+                <key>other</key>
+                <string>Assignments</string>
+            </dict>
+        </dict>
+
+        <key>summarybar.evaluation.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>Evaluation</string>
+                <key>other</key>
+                <string>Evaluations</string>
+            </dict>
+        </dict>
+
+        <key>summarybar.coursework.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>Reading</string>
+                <key>other</key>
+                <string>Readings</string>
+            </dict>
+        </dict>
+
+        <key>summarybar.todo.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>To-do</string>
+                <key>other</key>
+                <string>To-dos</string>
+            </dict>
+        </dict>
+
+        <key>summarybar.accessibility.assignment.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d assignment</string>
+                <key>other</key>
+                <string>%d assignments</string>
+            </dict>
+        </dict>
+
+        <key>summarybar.accessibility.evaluation.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d evaluation</string>
+                <key>other</key>
+                <string>%d evaluations</string>
+            </dict>
+        </dict>
+
+        <key>summarybar.accessibility.coursework.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d reading</string>
+                <key>other</key>
+                <string>%d readings</string>
+            </dict>
+        </dict>
+
+        <key>summarybar.accessibility.todo.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d to-do</string>
+                <key>other</key>
+                <string>%d to-dos</string>
+            </dict>
+        </dict>
+        
+        <key>updates.button.accessibility.%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>term</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>Updates; %d new update</string>
+                <key>other</key>
+                <string>Updates; %d new updates</string>
+            </dict>
+        </dict>
+        
+        <key>activities.count</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@term@</string>
+            <key>count</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>zero</key>
+                <string>nothing due</string>
+                <key>one</key>
+                <string>one activity</string>
+                <key>other</key>
+                <string>%d activities</string>
+            </dict>
+        </dict>
+
+    </dict>
+</plist>

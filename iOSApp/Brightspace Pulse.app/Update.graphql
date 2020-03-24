@@ -1,0 +1,5 @@
+query Update($id: String!) {
+    update(id: $id) {
+        ...updateDetails
+    }
+}

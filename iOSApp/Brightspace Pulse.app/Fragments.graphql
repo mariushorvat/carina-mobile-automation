@@ -1,0 +1,192 @@
+fragment semesterDetails on Semester {
+  name
+}
+
+fragment activityDetails on Activity {
+    id
+    startDate
+    dueDate
+    endDate
+    completionDate
+    completed
+
+    gradeInfo {
+        type
+        value
+    }
+
+    source {
+        id
+        name
+        description
+        url
+
+        organization {
+            name
+            code
+            color
+        }
+    }
+}
+
+fragment enrollmentDetails on UserEnrollment {
+    id
+    state
+    pinned
+    startDate
+    dueDate
+    endDate
+    completionDate
+    
+    notifications {
+        assignmentsCount
+        assignmentsUrl
+        discussionsCount
+        discussionsUrl
+        quizzesCount
+        quizzesUrl
+    }
+
+    organization {
+        ...organizationDetails
+     }
+ }
+ 
+fragment pinnedDetails on UserEnrollment {
+    pinned
+}
+
+fragment eventDetails on Event {
+    id
+    name
+    description
+    url
+
+    startDate
+    endDate
+
+    allDay
+
+    location
+
+    organization {
+        name
+        code
+        color
+    }
+}
+
+fragment organizationDetails on Organization {
+    id
+    name
+    code
+    color
+    isActive
+    homeUrl
+    imageUrl
+    sequenceUrl
+    semester {
+        ...semesterDetails
+    }
+}
+
+fragment updateDetails on Update {
+    id
+    title
+    date
+    type
+    description
+    link
+    organization {
+        id
+        name
+        color
+    }
+    contentLink
+}
+
+fragment updatesPageDetails on UpdatesPage {
+    id
+    next
+    updates {
+    ...updateDetails
+    }
+}
+
+fragment userDetails on User {
+    id
+    displayName
+    firstName
+    lastName
+    imageUrl
+}
+
+fragment activityFeedCommentDetails on ActivityFeedComment {
+    id
+    author {
+    ...userDetails
+    }
+    message
+    publishedDate
+}
+
+fragment activityFeedCommentPageDetails on ActivityFeedCommentPage {
+    id
+    activityFeedComments {
+    ...activityFeedCommentDetails
+    }
+    next
+}
+
+fragment activityFeedArticleDetails on ActivityFeedArticle {
+    id
+    author {
+    ...userDetails
+    }
+    message
+    publishedDate
+    type
+    allCommentsLink
+    commentsCount
+    firstComment {
+    ...activityFeedCommentDetails
+    }
+}
+fragment activityFeedAssignmentDetails on ActivityFeedAssignment {
+    id
+    author {
+    ...userDetails
+    }
+    publishedDate
+    type
+    allCommentsLink
+    commentsCount
+    name
+    instructions
+    dueDate
+    firstComment {
+    ...activityFeedCommentDetails
+    }
+}
+
+fragment activityFeedArticlePageDetails on ActivityFeedArticlePage {
+    id
+    next
+    activityFeedArticles {
+    ... on ActivityFeedArticle {
+        ...activityFeedArticleDetails
+    }
+    ... on ActivityFeedAssignment {
+        ...activityFeedAssignmentDetails
+    }
+    }
+}
+
+fragment activityFeedPostDetails on ActivityFeedPost {
+    ... on ActivityFeedArticle {
+        ...activityFeedArticleDetails
+    }
+    ... on ActivityFeedAssignment {
+        ...activityFeedAssignmentDetails
+    }
+}

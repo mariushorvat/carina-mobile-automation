@@ -1,0 +1,11 @@
+query UpdatesPage($id: String) {
+    updatesPage(id: $id) {
+        ...updatesPageDetails
+    }
+}
+
+mutation AcknowledgeAllUpdates($id: String) {
+    acknowledgeAllUpdates(id: $id) {
+        ...updatesPageDetails
+    }
+}

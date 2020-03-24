@@ -1,0 +1,5 @@
+query Activities($start:String!, $end:String!) {
+    activities(start:$start, end:$end) {
+        ...activityDetails
+    }
+}

@@ -1,0 +1,5 @@
+query Events($start: String!, $end: String!) {
+    events(start: $start, end: $end) {
+        ...eventDetails
+    }
+}

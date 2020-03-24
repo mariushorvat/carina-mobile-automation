@@ -1,0 +1,87 @@
+[2020-01-29 02:09:40] [IMessager.java] [20] [INFO]  TEST [User API tests - testCreateUserMissingSomeFields] STARTED at [14:09:40 2020-01-29]
+[2020-01-29 02:09:40] [AbstractApiMethodV2.java] [20] [INFO] Base properties loaded: api/users/user.properties
+[2020-01-29 02:09:41] [LoggingOutputStream.java] [20] [INFO] Request method:	POST
+Request path:	https://jsonplaceholder.typicode.com/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:
+[
+  {
+    "id": 1,
+    
+    
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "jojrmngj",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  }
+]
+HTTP/1.1 201 Created
+Date: Wed, 29 Jan 2020 19:09:40 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 516
+Connection: keep-alive
+Set-Cookie: __cfduid=d46787849941ffbcb8cf7bceca635eb961580324980; expires=Fri, 28-Feb-20 19:09:40 GMT; path=/; domain=.typicode.com; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Access-Control-Expose-Headers: Location
+Location: http://jsonplaceholder.typicode.com/users/11
+X-Content-Type-Options: nosniff
+Etag: W/"204-BToLHRm+iUsVPvZXmv6YAU+0meA"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 55cd807a1b6ecf28-IAD
+
+{
+  "0": {
+    "id": 1,
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "jojrmngj",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  "id": 11
+}
+
+[2020-01-29 02:09:41] [IMessager.java] [20] [INFO]  TEST [User API tests - testCreateUserMissingSomeFields] PASSED at [14:09:41 2020-01-29]

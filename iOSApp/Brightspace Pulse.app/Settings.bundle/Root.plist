@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>FooterText</key>
+			<string>settings.group.about.footer</string>
+			<key>Title</key>
+			<string>settings.group.about.title</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>$(CURRENT_PROJECT_VERSION).($(CURRENT_PROJECT_VERSION))</string>
+			<key>Key</key>
+			<string>currentVersionKey</string>
+			<key>Title</key>
+			<string>settings.version.title</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>EULA_Pane</string>
+			<key>Title</key>
+			<string>settings.eula.title</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Settings</string>
+</dict>
+</plist>

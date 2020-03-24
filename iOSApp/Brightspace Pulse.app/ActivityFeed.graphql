@@ -1,0 +1,17 @@
+query ActivityFeedArticlePage($orgUnitId: String!, $id: String) {
+    activityFeedArticlePage(orgUnitId: $orgUnitId, id: $id) {
+        ...activityFeedArticlePageDetails
+    }
+}
+
+query ActivityFeedCommentPage($id: String!) {
+    activityFeedCommentPage(id: $id) {
+        ...activityFeedCommentPageDetails
+    }
+}
+
+query ActivityFeedArticle($id: String!) {
+    activityFeedArticle(id: $id) {
+        ...activityFeedPostDetails
+    }
+}

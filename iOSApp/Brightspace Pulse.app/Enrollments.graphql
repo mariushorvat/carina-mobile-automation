@@ -1,0 +1,32 @@
+query EnrollmentPage($id:String) {
+    enrollmentPage(id:$id) {
+        id
+        next
+
+        organization {
+            id
+        }
+
+        enrollments {
+            ...enrollmentDetails
+        }
+    }
+}
+
+query Enrollment($id:String!) {
+    enrollment(id:$id) {
+        ...enrollmentDetails
+    }
+}
+
+mutation PinCourse($id: String!) {
+    pinEnrollment(id: $id) {
+        ...pinnedDetails
+    }
+}
+
+mutation UnpinCourse($id: String!) {
+    unpinEnrollment(id: $id) {
+        ...pinnedDetails
+    }
+}

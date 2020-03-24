@@ -1,0 +1,16 @@
+query userTenantInfo {
+  user {
+      firstName
+      lastName
+      displayName
+      imageUrl
+  }
+  rootOrganization {
+      id
+      name
+      theme {
+          color
+          imageLink
+      }
+  }
+}
